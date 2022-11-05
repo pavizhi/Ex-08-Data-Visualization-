@@ -172,4 +172,5 @@ plt.show()
 ![](./o16.png)
 ## 7.Boxplot
 ![](./o17.png)
-
+## Result:
+Hence, Data Visualization is applied on the complex dataset using libraries like Seaborn and Matplotlib successfully and the data is saved to file.
